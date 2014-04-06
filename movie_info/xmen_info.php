@@ -5,7 +5,7 @@
 			    </div>
 
 			    <div class="detail_title">
-			    	Transcendence
+			    	X-Men: Days of Future Past
 			    </div>
 
 			    <div class="detail_description">
