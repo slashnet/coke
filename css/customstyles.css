@@ -273,6 +273,12 @@ TITLE
 	margin-bottom: 20px;
 }
 
+video
+	{ width: 100% !important;
+	  height: auto !important;
+	
+	}
+
 .detail_title {
 	font-size: 22px;
 	font-family: 'vagbold';

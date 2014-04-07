@@ -1,4 +1,4 @@
-<div id="content">
+	<div id="content">
 
 				<div class="detail_image full">
 			    	<video src="http://slash_media/hls/trailers/captainamerica/output.m3u8" width="640" height="360" preload="none" controls poster="http://slash_media/hls/trailers/catainamerica/poster.png"></video>
