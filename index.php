@@ -119,7 +119,7 @@
 				    				</a>
 			    				</div>
 					    		<div class="item_link">
-					    			<a href="edgeoftomorrow.php">
+					    			<a href="transformers.php">
 					    				<img src="img/thumbs/transformers_art.png"/>
 					    				<div class="title">
 					    					Transformers 4
