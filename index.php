@@ -307,7 +307,7 @@
 			    			</div>
 			    			<div class="owl-carousel">
 			    				<div class="item_link">
-			    					<a href="odorowskysdune.php">
+			    					<a href="jodorowskysdune.php">
 			    						<img src="img/thumbs/jodorowskysdune_art.png"/>
 			    						<div class="title">
 			    							Jodorowsky's Dune
