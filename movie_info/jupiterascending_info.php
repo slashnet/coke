@@ -4,6 +4,7 @@
 			    	<video src="http://slash_media/hls/trailers/jupiterascending/output.m3u8" width="640" height="360" preload="none" controls poster="http://slash_media/hls/trailers/jupiterascending/poster.png"></video>
 			    </div>
 
+
 			    <div class="detail_title">
 			    	Jupiter Ascending
 			    </div>
