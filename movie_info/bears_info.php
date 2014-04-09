@@ -1,7 +1,7 @@
 	<div id="content">
 
 				<div class="detail_image full">
-			    	<video src="http://slash_media/hls/trailers/bears/output.m3u8" width="640" height="360" preload="none" controls poster="http://slash_media/hls/trailers/bears/poster.png"></video>
+			    	<video src="http://slash_media/hls/trailers/bears/output.m3u8" width="100%" height="auto" preload="none" controls poster="http://slash_media/hls/trailers/bears/poster.png"></video>
 			    </div>
 
 			    <div class="detail_title">
