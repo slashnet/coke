@@ -12,11 +12,7 @@
 			    	A prophecy traps a kingdom in eternal winter, so Anna must team up with Kristoff, a daring mountain man, on the grandest of journeys to find the Snow Queen and put an end to the icy spell. Encountering Everest-like extremes, mystical creatures and magic at every turn, Anna and Kristoff battle the elements in a race to save the kingdom from destruction.
 			    </div>
 
-			<!--    <div class="detail_buttons clearfix">
-			 	<a href="" class="btn btn-slash alignLeft">WATCH THIS MOVIE</a>
-			    </div>-->
-			    
-			    <hr class="dividerline"></div>
+			<hr class="dividerline"></hr>
 
 				<div class="clearfix">
 			    <div class="detail_disclaimer">

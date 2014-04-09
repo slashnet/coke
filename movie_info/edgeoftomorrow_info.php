@@ -12,11 +12,7 @@
 			    	Lt. Col. Bill Cage is an officer who has never seen a day of combat when he is unceremoniously dropped into what amounts to a suicide mission. Killed within minutes, Cage now finds himself inexplicably thrown into a time loop - forcing him to live out the same brutal combat over and over, fighting and dying again - and again. But with each battle, Cage becomes able to engage the adversaries with increasing skill, alongside Special Forces warrior Rita Vrataski. And, as Cage and Rita take the fight to the aliens, each repeated encounter gets them one step closer to defeating the enemy.
 			    </div>
 
-			<!--    <div class="detail_buttons clearfix">
-			 	<a href="" class="btn btn-slash alignLeft">WATCH THIS MOVIE</a>
-			    </div>-->
-			    
-			    <hr class="dividerline"></div>
+			<hr class="dividerline"></hr>
 
 				<div class="clearfix">
 			    <div class="detail_disclaimer">

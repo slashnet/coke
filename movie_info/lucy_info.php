@@ -16,7 +16,7 @@
 			 	<a href="" class="btn btn-slash alignLeft">WATCH THIS MOVIE</a>
 			    </div>-->
 			    
-			    <hr class="dividerline"></div>
+			<hr class="dividerline"></hr>
 
 				<div class="clearfix">
 			    <div class="detail_disclaimer">

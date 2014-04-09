@@ -12,11 +12,7 @@
 			    	Johnny Depp pays a call on his friend and hero Ralph Steadman and we take off on a high-spirited, raging and kaleidoscopic journey discovering the life and works of one of the most distinctive radical artists of the last 50 years.
 			    </div>
 
-			<!--    <div class="detail_buttons clearfix">
-			 	<a href="" class="btn btn-slash alignLeft">WATCH THIS MOVIE</a>
-			    </div>-->
-			    
-			    <hr class="dividerline"></div>
+		<hr class="dividerline"></hr>
 
 				<div class="clearfix">
 			    <div class="detail_disclaimer">

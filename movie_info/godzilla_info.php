@@ -11,11 +11,7 @@
 			    <div class="detail_description">
 			    	Godzilla is an upcoming American science fiction monster film featuring the Japanese film monster of the same name in a reboot of the Godzilla film franchise.</div>
 
-			<!--    <div class="detail_buttons clearfix">
-			 	<a href="" class="btn btn-slash alignLeft">WATCH THIS MOVIE</a>
-			    </div>-->
-			    
-			    <hr class="dividerline"></div>
+		<hr class="dividerline"></hr>
 
 				<div class="clearfix">
 			    <div class="detail_disclaimer">
