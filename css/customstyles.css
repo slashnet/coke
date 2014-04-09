@@ -60,17 +60,18 @@ body {
 }
 
 
+
 /*
 --------------------------------------------------------
 TYPOGRAPHY
 --------------------------------------------------------
 */
 a {
-  color:#67ca2f;
+  color: #eeefed;
   text-decoration: none;
 }
 a:hover, a:focus {
-  color: #f05a24;
+  color: #fbf5c2;
   text-decoration: none;
 }
 p {
@@ -361,6 +362,13 @@ hr
 {
 	font-family: 'vaglite';
 	color: rgb(207,207,207);
+}
+
+.goback
+{
+	margin-bottom: 20px;
+	font-family: vaglite;
+	font-size: 20px;
 }
 
 /*

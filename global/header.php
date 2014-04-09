@@ -17,5 +17,7 @@
 
 				</div>
 				
+				<div class="goback"><a href="index.php">« Go Back</a></div>
+				
 			</div>
 </header>
