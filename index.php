@@ -151,7 +151,7 @@
 				    				</a>
 			    				</div>
 			    				<div class="item_link">
-			    					<a href="xxxxxxxx.php">
+			    					<a href="rio2.php">
 				    					<img src="img/thumbs/rio2_art.png"/>
 				    					<div class="title">
 				    						Rio 2
