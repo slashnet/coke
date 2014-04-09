@@ -167,7 +167,7 @@
 			    					</a>
 			    				</div>
 			    				<div class="item_link">
-			    					<a href="amillionwaystodie.php">
+			    					<a href="amillionwaystodieinthewest.php">
 			    						<img src="img/thumbs/amillionwaystodieinthewest_art.png"/>
 			    						<div class="title">
 			    							A Million Ways to Die
