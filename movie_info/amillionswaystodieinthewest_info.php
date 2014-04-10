@@ -5,7 +5,7 @@
 			    </div>
 
 			    <div class="detail_title">
-			    	22 Jump Street
+			    	A Million Ways to Die
 			    </div>
 
 			    <div class="detail_description">
