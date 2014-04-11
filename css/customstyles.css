@@ -276,8 +276,8 @@ TITLE
 }
 
 video {
-    width: 100% !important;
-    height: 100% !important;
+    width: 640px !important;
+    height: 365px !important;
     position: absolute;
     top: 0px;
     left: 0px;
