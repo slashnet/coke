@@ -5,6 +5,11 @@
 				    <video src="http://slash_media/hls/trailers/noah/output.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/noah/poster.png"></video>
 				</div>
 
+<div class="detail_image full">
+    <img src="http://slash_media/hls/trailers/noah/poster.png" />
+    <video src="http://slash_media/hls/trailers/noah/output.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/noah/poster.png"></video>
+</div>
+
 			    <div class="detail_title">
 			    	Noah
 			    </div>
