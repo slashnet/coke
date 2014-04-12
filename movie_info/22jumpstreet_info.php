@@ -2,7 +2,7 @@
 
 				<div class="detail_image full">
 				    <img src="http://slash_media/hls/trailers/22jumpstreet/poster.png" />
-				    <video src="http://slash_media/hls/trailers/22jumpstreet/afflicted.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/22jumpstreet/poster.png"></video>
+				    <video src="http://slash_media/hls/trailers/22jumpstreet/22jumpstreet.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/22jumpstreet/poster.png"></video>
 				</div>
 
 			    <div class="detail_title">
