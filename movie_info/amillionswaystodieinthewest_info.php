@@ -1,8 +1,10 @@
 <div id="content">
 
-				<div class="detail_image full">
-			    	<video src="http://slash_media/hls/trailers/amillionwaystodieinthewest/output.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/amillionwaystodieinthewest/poster.png"></video>
+			    <div class="detail_image full">
+			        <img src="http://slash_media/hls/trailers/amillionwaystodieinthewest/poster.png" />
+			        <video src="http://slash_media/hls/trailers/amillionwaystodieinthewest/amillionwaystodieinthewest.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/amillionwaystodieinthewest/poster.png"></video>
 			    </div>
+			    
 
 			    <div class="detail_title">
 			    	A Million Ways to Die

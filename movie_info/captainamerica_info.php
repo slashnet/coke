@@ -1,9 +1,10 @@
 	<div id="content">
 
 				<div class="detail_image full">
-			    	<video src="http://slash_media/hls/trailers/captainamerica/output.m3u8" width="640" height="360" preload="none" controls poster="http://slash_media/hls/trailers/captainamerica/poster.png"></video>
-			    </div>
-
+				    <img src="http://slash_media/hls/trailers/captainamerica/poster.png" />
+				    <video src="http://slash_media/hls/trailers/captainamerica/captainamerica.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/captainamerica/poster.png"></video>
+				</div>
+				
 			    <div class="detail_title">
 			    	Captain America: The Winter Soldier
 			    </div>

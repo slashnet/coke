@@ -1,8 +1,9 @@
 <div id="content">
 
 				<div class="detail_image full">
-			    	<video src="http://slash_media/hls/trailers/thesignal/output.m3u8" width="640" height="360" preload="none" controls poster="http://slash_media/hls/trailers/thesignal/poster.png"></video>
-			    </div>
+				    <img src="http://slash_media/hls/trailers/thesignal/poster.png" />
+				    <video src="http://slash_media/hls/trailers/thesignal/thesignal.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/thesignal/poster.png"></video>
+				</div>
 
 			    <div class="detail_title">
 			    	The Signal

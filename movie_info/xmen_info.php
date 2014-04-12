@@ -1,8 +1,9 @@
 <div id="content">
 
-				<div class="detail_image full">
-			    	<video src="http://slash_media/hls/trailers/xmen/output.m3u8" width="640" height="360" preload="none" controls poster="http://slash_media/hls/trailers/xmen/poster.png"></video>
-			    </div>
+			<div class="detail_image full">
+				    <img src="http://slash_media/hls/trailers/xmen/poster.png" />
+				    <video src="http://slash_media/hls/trailers/xmen/xmen.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/xmen/poster.png"></video>
+				</div>
 
 			    <div class="detail_title">
 			    	X-Men: Days of Future Past

@@ -1,8 +1,9 @@
 	<div id="content">
 
 				<div class="detail_image full">
-			    	<video src="http://slash_media/hls/trailers/bears/output.m3u8" width="100%" height="auto" preload="none" controls poster="http://slash_media/hls/trailers/bears/poster.png"></video>
-			    </div>
+				    <img src="http://slash_media/hls/trailers/bears/poster.png" />
+				    <video src="http://slash_media/hls/trailers/bears/bears.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/bears/poster.png"></video>
+				</div>
 
 			    <div class="detail_title">
 			    	Disney's Bears

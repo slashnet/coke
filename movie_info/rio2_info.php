@@ -1,10 +1,11 @@
 <div id="content">
 
 				<div class="detail_image full">
-			    	<video src="http://slash_media/hls/trailers/rio2/output.m3u8" width="640" height="360" preload="none" controls poster="http://slash_media/hls/trailers/rio2/poster.png"></video>
-			    </div>
-
-			    <div class="detail_title">
+				    <img src="http://slash_media/hls/trailers/rio2/poster.png" />
+				    <video src="http://slash_media/hls/trailers/amillionwaystodieinthewest/rio2.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/rio2/poster.png"></video>
+				</div>
+				
+				<div class="detail_title">
 			    	Rio 2
 			    </div>
 

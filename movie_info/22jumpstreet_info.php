@@ -1,8 +1,9 @@
 <div id="content">
 
 				<div class="detail_image full">
-			    	<video src="http://slash_media/hls/trailers/22jumpstreet/output.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/22jumpstreet/poster.png"></video>
-			    </div>
+				    <img src="http://slash_media/hls/trailers/22jumpstreet/poster.png" />
+				    <video src="http://slash_media/hls/trailers/22jumpstreet/afflicted.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/22jumpstreet/poster.png"></video>
+				</div>
 
 			    <div class="detail_title">
 			    	22 Jump Street
