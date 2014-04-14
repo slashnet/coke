@@ -1,8 +1,8 @@
 <div id="content">
 
 			<div class="detail_image full">
-				    <img src="http://slash_media/hls/trailers/xmen/poster.png" />
-				    <video src="http://slash_media/hls/trailers/xmen/xmen.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/xmen/poster.png"></video>
+				    <img src="http://slash_media/hls/trailers/xmen2/poster.png" />
+				    <video src="http://slash_media/hls/trailers/xmen/xmen2.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/xmen2/poster.png"></video>
 				</div>
 
 			    <div class="detail_title">

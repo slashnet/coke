@@ -1,8 +1,8 @@
 <div id="content">
 
 			    <div class="detail_image full">
-			        <img src="http://slash_media/hls/trailers/amillionwaystodieinthewest/poster.png" />
-			        <video src="http://slash_media/hls/trailers/amillionwaystodieinthewest/amillionwaystodieinthewest.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/amillionwaystodieinthewest/poster.png"></video>
+			        <img src="http://slash_media/hls/trailers/amillionwaystodie/poster.png" />
+			        <video src="http://slash_media/hls/trailers/amillionwaystodie/amillionwaystodie.m3u8" preload="none" controls poster="http://slash_media/hls/trailers/amillionwaystodie/poster.png"></video>
 			    </div>
 			    
 
